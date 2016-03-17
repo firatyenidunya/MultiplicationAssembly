@@ -1,2 +1,2 @@
 # MultiplicationAssembly
-# Motorola 6800 8-bit microprocessor
+# Motorola 6802 Microprocessor
